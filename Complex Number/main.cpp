@@ -4,7 +4,8 @@
 
 using namespace std;
 
-class com{
+class com 
+{
         double reall,img;
 
 public:
@@ -17,37 +18,37 @@ public:
                 cin>>img;
         }
         void display();
-                com operator+(com);
-                com operator-(com);
-                com operator*(com);
-                com operator/(com);
-                com operator~(void);
+        com operator+(com);
+        com operator-(com);
+        com operator*(com);
+        com operator/(com);
+        com operator~(void);
 
-                com sin_value();
-                com cos_value();
-                com tan_value();
+        com sin_value();
+        com cos_value();
+        com tan_value();
 
-                com sinh_value();
-                com cosh_value();
-                com tanh_value();
+        com sinh_value();
+        com cosh_value();
+        com tanh_value();
 
-                com log_value();
-                com norm_value();
-                com abs_value();
-                com arg_value();
-                com power_value();
-                com exp_value();
-                com sqrt_value();
+        com log_value();
+        com norm_value();
+        com abs_value();
+        com arg_value();
+        com power_value();
+        com exp_value();
+        com sqrt_value();
 
-                        double get_real()
-                        {
-                                return((*this).reall);
-}
-                        double get_img()
-                        {
-                                return((*this).img);
-                        }
-        };
+        double get_real()
+        {
+           return((*this).reall);
+        }
+          double get_img()
+       {
+          return((*this).img);
+       }
+};
 
         void com::display()
         {
