@@ -28,6 +28,7 @@ namespace lab {
      * @tparam Type
      * @param list
      */
+     //{}
     template<typename Type>
     Stack<Type>::Stack(std::initializer_list<Type> list) : Stack(list.size())
     {

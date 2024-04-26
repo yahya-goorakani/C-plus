@@ -19,6 +19,10 @@ struct TempStruct {
 };
 
 int main() {
+    lab::Stack a({1,2,3,4});
+    a = std::move(a);
+    std::cout << a;
+    /*
 	// Проваленный тест преподавателя
 	lab::Queue<int> q_i { 2, 3, 100 };
 	lab::Queue<int> q_i2(q_i);
@@ -109,6 +113,6 @@ int main() {
     } catch (std::exception& e) {
         std::cout << "[ERROR] " << e.what() << std::endl;
     }
-    
+ */   
     return EXIT_SUCCESS;
 }
