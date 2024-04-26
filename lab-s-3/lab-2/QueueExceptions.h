@@ -1,6 +1,4 @@
-//
-// Created by bernigend on 07.12.2020.
-//
+
 
 #ifndef LABORATORY_WORK_2_QUEUEEXCEPTIONS_H
 #define LABORATORY_WORK_2_QUEUEEXCEPTIONS_H

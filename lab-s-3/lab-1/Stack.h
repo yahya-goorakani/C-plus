@@ -1,6 +1,4 @@
-//
-// Created by Bernigend on 19.09.2020.
-//
+
 
 #ifndef ARRAY_STACK_H
 #define ARRAY_STACK_H

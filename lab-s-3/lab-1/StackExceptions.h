@@ -1,6 +1,3 @@
-//
-// Created by Bernigend on 19.09.2020.
-//
 
 #ifndef ARRAY_STACKEXCEPTIONS_H
 #define ARRAY_STACKEXCEPTIONS_H

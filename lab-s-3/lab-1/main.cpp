@@ -1,6 +1,4 @@
-//
-// Created by Bernigend on 19.09.2020.
-//
+
 
 #include <stack>
 #include <queue>

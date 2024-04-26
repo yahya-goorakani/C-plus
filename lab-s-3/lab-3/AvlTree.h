@@ -1,6 +1,4 @@
-//
-// Created by Bernigend on 04.01.2021.
-//
+
 
 #ifndef LABORATORY_WORK_3_AVLTREE_H
 #define LABORATORY_WORK_3_AVLTREE_H

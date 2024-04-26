@@ -1,7 +1,4 @@
-//
-// Created by Bernigend on 19.09.2020.
-// https://github.com/Bernigend/mb-bmstu-works/tree/master/programming-in-high-level-languages/3rd-semester/laboratory-work-1/array
-//
+
 
 #ifndef ARRAY_STACK_H
 #define ARRAY_STACK_H
